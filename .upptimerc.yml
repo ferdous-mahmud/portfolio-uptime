@@ -3,8 +3,8 @@ owner: ferdous-mahmud # Your GitHub organization or username, where this reposit
 repo: portfolio-uptime # The name of this repository
 
 sites:
-  - name: Ferdous-Portfolio
-    url: https://ferdousmahmud.co
+  # - name: Ferdous-Portfolio
+  #   url: https://ferdousmahmud.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
